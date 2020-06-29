@@ -14,5 +14,5 @@ Regression Curve:
 
 Thank you Coursera, for the certificate.
 
-![](https://github.com/SrilakshmiSripathi/My-Certificates/blob/master/Coursera%208C8285MZ8LDH.pdf)
+![PDF](https://github.com/SrilakshmiSripathi/My-Certificates/blob/master/Coursera%208C8285MZ8LDH.pdf)
 
