@@ -1,4 +1,5 @@
 # Univariant-Linear-Regression
  
-Gradient Decent 
+Gradient Decent:
+
 ![](https://github.com/SrilakshmiSripathi/Univariant-Linear-Regression/blob/master/Gradient.PNG)
